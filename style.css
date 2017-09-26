@@ -1,0 +1,16 @@
+#wrapper{
+    width: 500px;
+    background: #C5C5C5;
+    background: -webkit-linear-gradient(#F5F5F5, lightgray);
+    background: -o-linear-gradient(#F5F5F5, lightgray);
+    background: -moz-linear-gradient(#F5F5F5, lightgray);
+    background: linear-gradient(#F5F5F5, lightgray);
+    padding: 10px;
+    border: 3px ridge gray;
+}
+
+img{
+    display: block;
+    margin: 0;
+    width: 100%;
+}
